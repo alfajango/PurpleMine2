@@ -32,6 +32,7 @@
   a#{$parent},
   .relations > span > a#{$parent},
   .parent > a#{$parent} {
+    display: inline-block;
     background-color: $background;
     color: $color;
 
